@@ -9,6 +9,7 @@ import android.content.SharedPreferences;
 
 public class MySharedPreference {
 
+
     private static final String GROUP_KEY = "cl.empresapjm.sharedprefexample.KEY.GROUP_KEY";
     private static final String PREFERENCE_KEY = "cl.empresapjm.sharedprefexample.KEY.PREFERENCE_KEY";
     private Context context;
